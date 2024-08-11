@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, There</h1>
-<img align="right" width="390" height="390" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpoOG1pbGx5cXd3bHdnNzI0MzEycXM4NTJxZnE1ZWFvczd5a2I3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif">
+<img align="right" width="390" height="390" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgybG9pZWZjcDA4bG0wNXdwY3RucGJhcWgwc3U2NHdzMzVjeGJvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKOfvqJHcVDrdVivT/giphy.gif">
 
 Hi, I'm Priya Dharsini, a passionate full-stack developer with a strong focus on backend development using Java and Spring Boot. I also have a keen interest in machine learning and have developed a sign language recognition system. I love contributing to open-source projects and learning from the community. I am constantly expanding my knowledge and skills, especially in cutting-edge technologies.
 
