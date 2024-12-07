@@ -75,10 +75,9 @@ Hi, I'm Priya Dharsini, a passionate full-stack developer with a strong focus on
   </a> 
 </p>
 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> 
 
 </p>
 
-[![Priyadharsini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyadharsini1003&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Priyadharsini1003)
